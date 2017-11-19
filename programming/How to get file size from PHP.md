@@ -8,14 +8,14 @@ Authors: sedlav
 
 You can get file size from PHP in 2 ways
 
-#. Using stat function
+## Using stat function
 
 ```php
 <?php
 echo stat($file_path)['size'];
 ```
 
-#. Using SplFileInfo class
+## Using SplFileInfo class
 
 ```php
 <?php
