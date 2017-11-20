@@ -17,7 +17,7 @@ nginx: configuration file /etc/nginx/nginx.conf test is successful
 ## Show version and configure options then exit
 
 ```nginx
-sudo nginx -V
+$ sudo nginx -V
 nginx version: nginx/1.12.2
 built by gcc 4.4.7 20120313 (Red Hat 4.4.7-18) (GCC) 
 built with OpenSSL 1.0.1e-fips 11 Feb 2013
