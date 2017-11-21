@@ -1,6 +1,6 @@
 ---
 title: "How to restart NetworkManager from command line in Fedora"
-date: 2017-07-27 08:30:57
+date: 2017-11-21 09:52:34
 categories: [network]
 tags: [NetworkManager]
 author: sedlav
