@@ -21,8 +21,6 @@ $ ip -f inet a
 
 * For ipv6
 
-A. Yes, you can type.
-
 ```bash
 $ ip -f inet6 a
 1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 state UNKNOWN qlen 1000
