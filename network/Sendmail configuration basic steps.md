@@ -1,5 +1,5 @@
 ---
-title: "Sendmail basic steps"
+title: "Sendmail configuration basic steps"
 date: 2017-11-28 00:23:03
 categories: [network]
 tags: [sendmail, smtp, email]
