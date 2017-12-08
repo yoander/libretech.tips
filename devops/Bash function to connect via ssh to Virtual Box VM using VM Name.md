@@ -7,5 +7,5 @@ author: sedlav
 ---
 
 {{% 
-    ```bash gist yoander 19971f603ecd850182e4f2a7875bebf9``` 
+    gist yoander 19971f603ecd850182e4f2a7875bebf9 
 %}}
