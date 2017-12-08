@@ -1,9 +1,9 @@
 ---
-Title: "How to get file size from PHP"
-Date: 2017-08-04 16:43:57
-Categories: [programming]
+title: "How to get file size from PHP"
+date: 2017-08-04 16:43:57
+categories: [programming]
 tags: [php]
-Authors: sedlav
+authors: sedlav
 ---
 
 You can get file size from PHP in 2 ways

@@ -1,9 +1,9 @@
 ---
-Title: "Simple Generator example"
-Date: 2017-08-08 20:18:04
-Categories: [programming]
+title: "Simple Generator example"
+date: 2017-08-08 20:18:04
+categories: [programming]
 tags: [php]
-Authors: sedlav
+authors: sedlav
 ---
 
 This a simple Generator example
