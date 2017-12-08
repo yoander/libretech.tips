@@ -6,7 +6,7 @@ tags: [bash, virtual box, ssh]
 author: sedlav
 ---
 
-This a bash function that allow to connect to a Virtual Box VM usinf VM Name, for example: vbossh centos
+This a bash function that allows to connect to a Virtual Box VM usinf VM Name, for example: vbossh centos
 
 ```bash
 #
