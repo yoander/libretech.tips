@@ -69,3 +69,5 @@ function vboxssh {
     done
 }
 ```
+
+⋔ me on [Github](https://gist.github.com/yoander/19971f603ecd850182e4f2a7875bebf9) 
