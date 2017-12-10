@@ -9,12 +9,12 @@ author: sedlav
 This a bash function that allows to connect to a Virtual Box VM using VM Name, for example: vbossh centos
 
 ```bash
-#
+
 #
 # Connect to VM by VM Name via shh if user is not specified
 # then try to connect using root user
 # Examples: vboxssh root@CentOS7, vboxssh CentOS7
-#
+
 function vboxssh {
     USER=
     if [[ "$1" == *@* ]]; then
@@ -48,7 +48,7 @@ function vboxssh {
         IP=$(ip neighbor |grep -i "$MAC"|awk '{print $1}')
         # IF we can't get IP sleep for 5s and try again
         if [[ $IP == "" ]]; then
-            (( ++$retry ))
+            (( ++retry ))
             sleep 5s
         else
             retry=6;
@@ -64,7 +64,7 @@ function vboxssh {
     # options to the ssh client
     while ! ssh $USER@$IP -o "StrictHostKeyChecking no" -o "CheckHostIP no" && [[ $retry -lt 61 ]]; do
         echo Waiting VM start ssh service
-        (( ++$retry ))
+        (( ++retry ))
         sleep 5s;
     done
 }
