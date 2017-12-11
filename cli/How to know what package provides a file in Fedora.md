@@ -37,4 +37,4 @@ Repo        : updates
 
 ### Further reading:
 
-* man id
+* man dnf
