@@ -1,8 +1,8 @@
 ---
 title: "MySQL cache configuration examples"
 date: 2017-11-28 11:25:43
-categories: [network]
-tags: [data base]
+categories: [data base]
+tags: [mysql, mariadb, percona]
 author: sedlav
 ---
 
