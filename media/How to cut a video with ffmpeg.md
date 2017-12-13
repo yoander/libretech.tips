@@ -1,5 +1,5 @@
 ---
-title: How to cut a video with ffmpeg
+title: How to cut a video with ffmpeg?
 date: 2017-11-25 12:25:57
 categories: [media]
 tags: [ffmpeg]

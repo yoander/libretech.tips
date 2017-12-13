@@ -1,5 +1,5 @@
 ---
-title: How to empty files in mass
+title: How to empty files in mass?
 date: 2017-11-22 22:27:02
 categories: [cli]
 tags: [find, xargs, bash]

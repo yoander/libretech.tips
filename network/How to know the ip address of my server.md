@@ -1,5 +1,5 @@
 ---
-title: "How to know the ip address of my server"
+title: "How to know the ip address of my server?"
 date: 2017-11-21 22:47:27
 categories: [network]
 tags: [ip]

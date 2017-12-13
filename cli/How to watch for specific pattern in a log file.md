@@ -1,5 +1,5 @@
 ---
-title: How to watch for specific pattern in a log file.
+title: How to watch for specific pattern in a log file?
 date: 2017-12-10 11:44:09
 categories: [cli]
 tags: [tail, grep]

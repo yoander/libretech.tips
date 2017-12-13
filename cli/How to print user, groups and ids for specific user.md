@@ -1,5 +1,5 @@
 ---
-title: How to print user, groups and ids for specific user
+title: How to print user, groups and ids for specific user?
 date: 2017-12-10 11:43:43
 categories: [cli]
 tags: [id]

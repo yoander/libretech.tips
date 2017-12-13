@@ -1,5 +1,5 @@
 ---
-title: "How to get file size from PHP"
+title: "How to get file size from PHP?"
 date: 2017-08-04 16:43:57
 categories: [programming]
 tags: [php]

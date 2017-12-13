@@ -1,5 +1,5 @@
 ---
-title: "How to change the case of a word in vim"
+title: "How to change the case of a word in vim?"
 date: 2017-12-12 23:57:19
 categories: [text editors]
 tags: [vim]
