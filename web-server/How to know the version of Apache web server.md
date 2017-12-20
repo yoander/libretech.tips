@@ -10,7 +10,7 @@ You can know the version of Apache web server typing
 
 
 ```bash
-apachetctl -v
+$ apachetctl -v
 Server version: Apache/2.4.27 (Fedora)
 Server built:   Jul 17 2017 13:11:27
 ```
@@ -18,7 +18,7 @@ Server built:   Jul 17 2017 13:11:27
 TO get more detailed info type:
 
 ```bash
-apachectl -V
+$ apachectl -V
 Server version: Apache/2.4.27 (Fedora)
 Server built:   Jul 17 2017 13:11:27
 Server's Module Magic Number: 20120211:68
@@ -46,7 +46,6 @@ Server compiled with....
  -D AP_TYPES_CONFIG_FILE="conf/mime.types"
  -D SERVER_CONFIG_FILE="conf/httpd.conf"
 ```
-
 
 ## Further reading
 
