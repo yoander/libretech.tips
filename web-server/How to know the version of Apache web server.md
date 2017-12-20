@@ -15,7 +15,7 @@ Server version: Apache/2.4.27 (Fedora)
 Server built:   Jul 17 2017 13:11:27
 ```
 
-TO get more detailed info type:
+To get more detailed info type:
 
 ```bash
 $ apachectl -V
