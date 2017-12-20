@@ -6,7 +6,7 @@ tags: [apache]
 author: sedlav
 ---
 
-You can redict from http to https in apache adding the following direcitive inside your virtual host.
+You can redirect from http to https in apache adding the following direcitive inside your virtual host.
 
 
 ```apache
