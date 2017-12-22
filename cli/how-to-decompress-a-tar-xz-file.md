@@ -10,7 +10,7 @@ authors: sedlav
 You must use the tar tool with J option
 
 ```
-$ tar xJvf php-7.0.10.tar.xz</code></pre>
+$ tar xJvf php-7.0.10.tar.xz
 ```
 
 Where:
