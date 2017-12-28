@@ -42,13 +42,6 @@ $ curl -# -K - <<URL
 URL
 ```
 
-
-If you want to empty several files in one operation you can type a sentence like this
-
-```bash
-$  find -type f -name '*.xml' -print0|xargs -0 -I {} bash -c "> {}"
-```
-
 ## Further reading
 
 - man curl
