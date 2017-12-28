@@ -14,7 +14,7 @@ If you want to read multiple URLs using curl like wget -i style you can follow o
 $ xargs -a urls.txt -I{} curl -O {} 
 ```
 
-# Method 2. Using -K option
+## Method 2. Using -K option
 
 ```
 curl -K url.txt
@@ -30,7 +30,7 @@ url = "url2"
 output = "name2"
 ```
 
-# Method 2. Using -K option, reading standard input and HEREDOC
+## Method 3. Using -K option, reading standard input and HEREDOC
 
 ```
 $ curl -# -K - <<URL
