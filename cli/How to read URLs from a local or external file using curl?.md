@@ -17,7 +17,7 @@ $ xargs -a urls.txt -I{} curl -# -O {}
 ## Method 2. Using -K option
 
 ```
-curl -# -K url.txt
+curl -# -K urls.txt
 ```
 
 url.txt has this format:
