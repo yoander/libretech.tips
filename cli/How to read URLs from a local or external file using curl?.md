@@ -11,13 +11,13 @@ If you want to read multiple URLs using curl like wget -i style you can follow o
 ## Method 1. Using xargs and curl
 
 ```
-$ xargs -a urls.txt -I{} curl -O {} 
+$ xargs -a urls.txt -I{} curl -# -O {} 
 ```
 
 ## Method 2. Using -K option
 
 ```
-curl -K url.txt
+curl -# -K url.txt
 ```
 
 url.txt has this format:
@@ -34,11 +34,11 @@ output = "name2"
 
 ```
 $ curl -# -K - <<URL
-    url = "https://download.libsodium.org/libsodium/releases/$libsodium"
-    output = "$libsodium"
+    url = "https://download.libsodium.org/libsodium/releases/libsodium-1.0.16.tar.gz"
+    output = "libsodium-1.0.16.tar.gz"
 
-    url = "https://download.libsodium.org/libsodium/releases/$libsodium.sig"
-    output="$libsodium.sig"
+    url = "https://download.libsodium.org/libsodium/releases/libsodium-1.0.16.tar.gz.sig"
+    output="libsodium-1.0.16.tar.gz.sig"
 URL
 ```
 
