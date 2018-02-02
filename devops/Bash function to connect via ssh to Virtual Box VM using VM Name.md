@@ -6,7 +6,7 @@ tags: [bash, virtual box, ssh]
 author: sedlav
 ---
 
-This a bash function that allows to connect to a Virtual Box VM using VM Name, for example: vbossh centos
+This a bash function that allows to connect to a Virtual Box VM using VM Name, for example: vboxssh centos
 
 {{< highlight bash >}}{{% readfile file="/gist/sh/vboxssh/vboxssh.sh" markdown="false" %}}{{< /highlight >}}
 
