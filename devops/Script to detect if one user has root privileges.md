@@ -8,6 +8,6 @@ author: sedlav
 
 This a bash script that detects if you has root privileges!
 
-{{< highlight bash >}}{{% readfile file="/gist/is_root/is_root.sh" markdown="false" %}}{{< /highlight >}}
+{{< highlight bash >}}{{% readfile file="/gist/sh/is_root/is_root.sh" markdown="false" %}}{{< /highlight >}}
 
 ⋔ me on [Github](https://gist.github.com/yoander/a35620c7c38431e56b2c414a0d789b0b) 
