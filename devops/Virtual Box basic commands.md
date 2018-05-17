@@ -8,10 +8,30 @@ author: sedlav
 
 ## Start a VM
 ```
-$ vboxmanage startvm "VM Name"|"VM ID"
+$ vboxmanage startvm "VM Name"
 ```
 
-## Poweroff the VM
+## Power off the VM
 ```
-$ vboxmanage controvm "VM Name"|"VM ID" poweroff
+$ vboxmanage controlvm "VM Name" poweroff
+```
+
+## Show VM info
+```
+$ vboxmanage showvminfo "VM Name"
+```
+
+## Register/Add a VM
+```
+$ vboxmanage registervm "full path to .vbox file"
+```
+
+## Unregister/Add a VM
+```
+$ vboxmanage unregistervm "VM Name"
+```
+
+## Delete a VM
+```
+$ vboxmanage unregistervm --delete "VM Name"
 ```
