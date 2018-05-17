@@ -26,7 +26,7 @@ $ vboxmanage showvminfo "VM Name"
 $ vboxmanage registervm "full path to .vbox file"
 ```
 
-## Unregister/Add a VM
+## Unregister a VM
 ```
 $ vboxmanage unregistervm "VM Name"
 ```
