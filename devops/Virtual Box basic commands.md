@@ -6,6 +6,16 @@ tags: [bash, virtual box]
 author: sedlav
 ---
 
+## List VMs (All)
+```
+$ vboxmanage list vms
+```
+
+## List running VMs
+```
+$ vboxmanage list runningvms
+```
+
 ## Start a VM
 ```
 $ vboxmanage startvm "VM Name"
