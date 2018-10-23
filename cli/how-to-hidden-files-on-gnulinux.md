@@ -6,7 +6,7 @@ tags: [find]
 authors: sedlav
 ---
 
-You must use the **find** command, for example find all hidden file in our $HOME
+You must use the **find** command, for example find all hidden file in our $HOME directory
 
 ```
 $ find $HOME -maxdepth 1 -name ".*" -type f  -ls
