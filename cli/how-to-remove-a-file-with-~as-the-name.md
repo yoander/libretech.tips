@@ -6,7 +6,7 @@ tags: [rm]
 Authors: sedlav
 ---
 
-You must scape with `\.`
+You must scape with `\`
 
 ```
 $ rm -i \~
