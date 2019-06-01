@@ -41,6 +41,12 @@ $ vboxmanage registervm "full path to .vbox file"
 $ vboxmanage unregistervm "VM Name"
 ```
 
+## Clone a VM
+
+```
+$ vboxmanage clonevm DebianBase --name DebianPHP --register
+```
+
 ## Delete a VM
 ```
 $ vboxmanage unregistervm --delete "VM Name"
