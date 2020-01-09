@@ -1,5 +1,5 @@
 ---
-title: "How to show the MYSQL running queies"
+title: "How to show the MYSQL running queries"
 date: 2020-01-09 18:49:13
 categories: [data base]
 tags: [mysql, mariadb, percona]
