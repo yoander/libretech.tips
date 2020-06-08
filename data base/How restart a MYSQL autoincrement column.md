@@ -1,5 +1,5 @@
 ---
-title: "How restart a the MYSQL autoincrement column?"
+title: "How restart a MYSQL autoincrement column?"
 date: 2020-01-11 18:13:34
 categories: [data base]
 tags: [mysql, mariadb, percona]

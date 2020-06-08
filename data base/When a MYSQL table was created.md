@@ -14,7 +14,6 @@ SELECT `CREATE_TIME` FROM `TABLES` WHERE `TABLE_NAME` = 'my-table-name'
 
 If you have the same table name on different data base then you can use this query:
 
-
 ```mysql
 SELECT `CREATE_TIME` FROM `TABLES` WHERE `TABLE_SCHEMA` = 'my-database-name' AND `TABLE_NAME` = 'my-table-name'
 ```
