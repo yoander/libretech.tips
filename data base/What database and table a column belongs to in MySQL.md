@@ -9,11 +9,11 @@ author: sedlav
 If you want to locate a column in MySQL you can use the following query
 
 ```mysql
-SELECT `TABLE_SCHEMA`, `TABLE_NAME`, `COLUMN_NAME` FROM `COLUMNS` WHERE `COLUMN_NAME` = 'my-colum-name'
+SELECT `TABLE_SCHEMA`, `TABLE_NAME`, `COLUMN_NAME` FROM information_schema.`COLUMNS` WHERE `COLUMN_NAME` = 'my-colum-name'
 ```
 
 Also you can use the `LIKE` operator
 
 ```mysql
-SELECT `TABLE_SCHEMA`, `TABLE_NAME`, `COLUMN_NAME` FROM `COLUMNS` WHERE `COLUMN_NAME` LIKE '%my-colum-pattern%'
+SELECT `TABLE_SCHEMA`, `TABLE_NAME`, `COLUMN_NAME` FROM information_schema.`COLUMNS` WHERE `COLUMN_NAME` LIKE '%my-colum-pattern%'
 ```
