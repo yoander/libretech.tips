@@ -8,8 +8,6 @@ authors: sedlav
 
 Use gethostbyname and gethostname from socket packet
 
-## Using stat function
-
 ```python
 #!/usr/bin/env python3
 import socket
