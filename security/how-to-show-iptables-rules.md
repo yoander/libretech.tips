@@ -12,7 +12,7 @@ Type the following command as root user
 $ sudo iptables -L
 ```
 
-nat table rules is not show by dafault so you need execute
+**nat** table rules is not show by dafault so you need to execute
 
 ```
 $ sudo iptables -t nat -L
