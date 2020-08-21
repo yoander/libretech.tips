@@ -1,6 +1,6 @@
 ---
 title: "How to test NGINX configuration file?"
-date: 2017-11-20 11:33:02
+date: 2020-08-21 11:14:26
 categories: [web server]
 tags: [nginx]
 author: sedlav
