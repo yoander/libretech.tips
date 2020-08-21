@@ -1,5 +1,5 @@
 ---
-title: "How to test NGINX configuration file?"
+title: "How to test Apache configuration file?"
 date: 2020-08-21 11:14:26
 categories: [web server]
 tags: [nginx]
