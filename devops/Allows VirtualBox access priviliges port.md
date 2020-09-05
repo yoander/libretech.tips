@@ -1,5 +1,5 @@
 ---
-title: Virtual Box basic commands
+title: Allows VirtualBox access priviliges port
 date: 2020-09-05 16:30:23
 categories: [devops]
 tags: [virtual box]
