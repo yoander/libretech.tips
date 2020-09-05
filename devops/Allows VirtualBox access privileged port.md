@@ -1,5 +1,5 @@
 ---
-title: Allows VirtualBox access priviliges port
+title: Allows VirtualBox access privileged port
 date: 2020-09-05 16:30:23
 categories: [devops]
 tags: [virtual box]
