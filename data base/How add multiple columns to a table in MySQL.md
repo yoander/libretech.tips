@@ -23,3 +23,9 @@ ALTER TABLE libretech.post  ADD COLUMN (`label` varchar(120) DEFAULT NULL, `desc
 ```
 
 In the previous example 3 columns will be added to the post table after the last column, post table belongs to libretech DB.
+
+
+<?php
+if ($a->sssss) {
+
+}
