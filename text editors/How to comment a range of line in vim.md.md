@@ -6,10 +6,6 @@ tags: [vim]
 author: sedlav
 ---
 
-In modal mode press:
-
-## For uppercase
-
 ```
 :start_line, end_lines/\(.*\)/#\1/
 ```
